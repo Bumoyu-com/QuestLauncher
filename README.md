@@ -28,7 +28,7 @@ An app launcher with tons of free game resource(1700+) for Quest2
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![screenshot](https://d50bz11xq1cux.cloudfront.net/projectShot.png)
+![screenshot](images/projectShot.png)
 
 This is a promo repo for QG.
 
