@@ -1,12 +1,12 @@
 # QuestLauncher
-## An app launcher with tons of free game resource(1700+) for Quest2
+An app launcher with tons of free game resource(1700+) for Quest2
 
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://www.quest2.games">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -21,14 +21,14 @@
     ·
     <a href="https://discord.gg/qERrQRe5X3">discord</a>
     ·
-    <a href="https://discord.gg/qERrQRe5X3">youtube</a>
+    <a href="https://www.youtube.com/channel/UChFfrqoA-LPV8UdaoGNqzhQ">youtube</a>
   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![QG][product-screenshot]](https://d50bz11xq1cux.cloudfront.net/projectShot.png)
+![screenshot](https://d50bz11xq1cux.cloudfront.net/projectShot.png)
 
 This is a promo repo for QG.
 
@@ -50,23 +50,18 @@ Download QG.zip from release or website. Unzip it, install the apk with adb or u
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Add free&cracked game resource
+- [ ] Add 360 video resource
+- [ ] Add cloud-based Stream VR games support
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+
+See the [open issues](https://github.com/Bumoyu-com/QuestLauncher/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Lennox - [@G1rvan4](https://twitter.com/G1rvan4) - lennox@bumoyu.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
